@@ -1,0 +1,16 @@
+{
+  "name": "ФОРМАТ — печатный планировщик",
+  "short_name": "ФОРМАТ",
+  "description": "Календарь месяца, план дня, встречи и продажи. Печать на А4.",
+  "start_url": "/#app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "ru",
+  "background_color": "#14161B",
+  "theme_color": "#14161B",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
